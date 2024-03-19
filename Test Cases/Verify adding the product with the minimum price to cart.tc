@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify adding the product with the minimum price to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb7f189d-f5c8-4ec8-8c08-e8233b35e95b</testCaseGuid>
+</TestCaseEntity>
