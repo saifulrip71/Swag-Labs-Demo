@@ -28,7 +28,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Swag Labs_Login/te
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs_Login/button_login'))
 
 'Get the list of product prices'
-List price = WebUI.findWebElements(findTestObject('Page_Swag Labs/div_price'), 40)
+List price = WebUI.findWebElements(findTestObject('Page_Swag Labs/div_price'), 30)
 
 'initialize variables for lowest price and index of it'
 double minprice = 100
